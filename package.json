@@ -1,0 +1,14 @@
+{
+  "name": "todos",
+  "version": "0.0.0",
+  "author": "zhang13pro",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vite": "^2.3.8"
+  }
+}
